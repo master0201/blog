@@ -25,8 +25,8 @@ SECRET_KEY = 'f&m(lzcn&ga9&)=_s7p+nl(z!bl^$9wdd+@j89_)!sta24giiu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
-
+ALLOWED_HOSTS = ['*']  
+p ="I am a sophomore"
 
 # Application definition
 
