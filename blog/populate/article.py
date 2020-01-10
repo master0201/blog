@@ -1,4 +1,3 @@
-from populate import base
 from article.models import Article, Comment
 
 
